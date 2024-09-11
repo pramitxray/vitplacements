@@ -1,2 +1,0 @@
-# vitplacements
-trust the process.
