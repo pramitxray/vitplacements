@@ -1,10 +1,10 @@
 # VIT PLACEMENTS 2024-2025
 
-last updated 11/09/24 <br>
+last updated 12/09/24 <br>
 feel free to ping me if any update required. <br>
 data may be inacc, this is approx stats.
 
-## TOTAL PLACED: 767 <br>
+## TOTAL PLACED: 827 <br>
 <br>
 
 | Index   | Company                 | Month     | Intership/Fulltime   | Role                                                                                       | CTC   | Company               | Stipend   | Location                            | Students Recruited   |
@@ -22,13 +22,13 @@ data may be inacc, this is approx stats.
 |         | ION Group               | July      | Both                 | Software Developer,Data Scientist,Technical Analyst                                        | 17.3  | ION Group               |           | PAN India                           | 70                   |
 |         | Marvell                 | July      | PPO                  |                                                                                            |       | Marvell                 |           |                                     | 4                    |
 |         | WorkIndia               | July      |                      | Software Development Engineer Intern,Data Analyst Intern,Associate Program Manager Trainee | 23    | WorkIndia               | 40,000    | Bangalore                           | 5                    |
-|         | Human Resocia           | July      |                      | Software Engineer                                                                          | 22    | Human Resocia           | 1,45,000  | Japan                               |                      |
+|         | Human Resocia           | July      |                      | Software Engineer                                                                          | 22    | Human Resocia           | 1,45,000  | Japan                               | 4                     |
 |         | Microsoft               | July      |                      |                                                                                            |       | Microsoft               |           |                                     | 11                   |
 |         | Accenture               | July      |                      | Advanced App Engineering Analyst.                                                          | 12    | Accenture               |           | PAN India                           |                      |
 |         | tanx.Fi                 | July      |                      | Backend Developer,Django Developer,Ruby on Rails Developer,Infrastructure Engineer         | 31    | tanx.Fi                 | 35,000    |                                     | 3                    |
 |         | Deliveroo               | July      | Both                 | Software Engineer                                                                          | 26.5  | Deliveroo               | 75000     | Hyderabad                           | 6                    |
 |         | Flipkart                | July      |                      |                                                                                            | 13.5  | Flipkart                       | 50,000    | PAN India                           |                      |
-|         | JP Morgan               | July      | Internship           |                                                                                            |       | JP Morgan               | 75,000    | Mumbai,Bangalore                    | 23,25                |
+|         | JP Morgan               | July      | Internship           |                                                                                            |       | JP Morgan               | 75,000    | Mumbai,Bangalore                    | 49                |
 |         | Amazon                  | July      |                      | Non Tech                                                                                   | 15    | Amazon                  | 70,000    | PAN India                           | 8                    |
 |         | Oracle                  | July      | PPO                  |                                                                                            |       | Oracle                  |           |                                     | 11                   |
 |         | McDermott               | July      | FTE                  | Associate Engineer                                                                         | 7.5   | McDermott               |           | Chennai                             | 3                    |
@@ -80,7 +80,7 @@ data may be inacc, this is approx stats.
 |         | HPE CTY                 | August    | PPO                  |                                                                                            |       | HPE CTY                 |           |                                     | 6                    |
 |         | Siemens Energy          | August    | Both                 |                                                                                            | 6     | Siemens Energy          | 25,000    | Gurugram                            | 2                    |
 |         | IDFC FIRST Bank         | August    | Both                 | Application Engineer                                                                       | 18    | IDFC FIRST Bank         | 40,000    | PAN India                           | 7                    |
-|         | Blackrock               | August    | Both                 | Software Engineer, Data & Software Engineering & Digital Marketing                         | 18    | Blackrock               | 50,000    | Mumbai, Gurugram                    | 70                   |
+|         | Blackrock               | August    | Both                 | Software Engineer, Data & Software Engineering & Digital Marketing                         | 18    | Blackrock               | 50,000    | Mumbai, Gurugram                    | 77                   |
 |         | ACCELERIZE 360          | August    | Both                 |                                                                                            |       | ACCELERIZE 360          |           |                                     |                      |
 |         | Bazaarvoice             | August    | Both                 |                                                                                            | 9.5   | Bazaarvoice             | 60,000    | Bangalore                           | 12                   |
 |         | MEESHO                  | August    | Both                 | Business Analyst                                                                           | 21    | MEESHO                  | 35,000    | Gurugram                            | 2                    |
@@ -120,3 +120,5 @@ data may be inacc, this is approx stats.
 |         | Siemens EDA             | September | Internship           |                                                                                            |       | Siemens EDA             | 50,000    | Hyderabad,Bangalore                 |                      |
 |         | Trademarkia             | September |                      |                                                                                            | 12    | Trademarkia             | 50,000    | Chennai                             |                      |
 | 111        | Verity                  | September |                      |                                                                                            |       | Verity                  |           |                                     |                      |
+| 112        | Arm embedded             | September | Internship                      |                                                                                            |     | Arm embedded              | 45,000    |    
+| 113        | Axxela Research             | September | Both                      |                                                                                            | 14    | Axxela Research              | 20,000    |  Bangalore,Mumbai,Kolkata,Gurgaon
