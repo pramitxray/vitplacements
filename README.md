@@ -1,10 +1,14 @@
 # VIT PLACEMENTS 2024-2025
 
-last updated 24/09/24 <br>
+last updated 30/09/24 <br>
 feel free to ping me if any update required. <br>
 data may be inacc, this is approx stats.
 
-## TOTAL PLACED: 1274 <br>
+Having problems to add on github atm. <br>
+The google sheet is updated with latest deets. <br>
+### [Click here to view the sheet](https://docs.google.com/spreadsheets/d/1XKwixrXCxNcaygsDYMCIjZg8O56hZ-o-KAbHeP0QH8o/)
+
+## TOTAL PLACED: 1441 <br>
 <br>
 
 |   Index | Company                 | Month     | Intership/Fulltime   | Role                                                                                       | CTC                 | Stipend   | Location                            | Company               | Students Recruited   |
